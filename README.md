@@ -2,11 +2,13 @@
   <img src="./assets/bannner.png" width="100%" />
 </p>
 
+<div align="center">
+
 # 👋 Hi, I'm **MD Shium Joarder**
 
 ### 🚀 Full Stack Web Developer
 
----
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;Open+to+Collaboration+%F0%9F%A4%9D;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Full+Stack+Web+Developer+%F0%9F%9A%80" alt="Typing SVG" />
 
