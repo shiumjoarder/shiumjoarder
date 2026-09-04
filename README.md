@@ -8,8 +8,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **MD Shium Joarder**
-### 🚀 Full-Stack Web Developer
+# 👋 Hi, I'm **MD Shium Joarder**### 🚀 Full-Stack Web Developer
 
 </div>
 
@@ -38,7 +37,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:[shiumjoarder@gmail.com](mailto:shiumjoarder@gmail.com)">
+<a href="mailto:shiumjoarder@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -68,7 +67,7 @@
 
 I'm MD Shium Joarder, an ICE Student at Bangladesh Army University of Engineering & Technology (BAUET) and a passionate Full-Stack Web Developer focused on creating modern, responsive and scalable web applications.
 
-I enjoy turning ideas into real-world projects while continuously improving my problem-solving, programming and software engineering skills..
+I enjoy turning ideas into real-world projects while continuously improving my problem-solving, programming and software engineering skills.
 
 ### 🚀 What I Do
 
@@ -236,7 +235,7 @@ I enjoy turning ideas into real-world projects while continuously improving my p
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:[shiumjoarder@gmail.com](mailto:shiumjoarder@gmail.com)">
+<a href="mailto:shiumjoarder@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
