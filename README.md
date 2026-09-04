@@ -4,70 +4,54 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **MD Shium Joarder**
+# Hi, I'm **MD Shium Joarder** 👋
 
-### 🚀 Full-Stack Web Developer
+### Full-Stack Web Developer
 
 <p>
-  <b>Building • Learning • Improving • Creating</b>
+  Passionate about building modern, responsive, and scalable web applications.
 </p>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;JavaScript+%7C+TypeScript;React+%7C+Next.js;Node.js+%7C+Express.js;MongoDB+%7C+PostgreSQL;Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/shiumjoarder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/md-shium-joarder-/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Improve+%E2%86%92+Repeat;JavaScript+%7C+TypeScript+%7C+React;Next.js+%7C+Node.js+%7C+Express.js;Building+Projects+and+Improving+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=shiumjoarder&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" />
+<a href="https://github.com/shiumjoarder">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<img src="https://img.shields.io/github/followers/shiumjoarder?label=FOLLOWERS&style=for-the-badge&color=58A6FF" />
+<a href="https://www.linkedin.com/in/md-shium-joarder-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shiumjoarder@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
----
+
 
 # 👨‍💻 About Me
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/giphy.gif" />
+I'm **MD Shium Joarder**, a passionate developer focused on becoming a professional **Full-Stack Software Engineer**.
 
-I'm **MD Shium Joarder**, a passionate **Full-Stack Web Developer** focused on creating modern, responsive and scalable web applications.
+I enjoy turning ideas into functional web applications and continuously improving my skills through hands-on projects and problem solving.
 
-I enjoy turning ideas into real-world projects and continuously improving my development, problem-solving and software engineering skills.
+* 🔭 Currently focused on **Full-Stack Web Development**
+* 🌱 Learning **React, Next.js, Node.js, TypeScript and Backend Development**
+* 🧩 Interested in **building real-world applications**
+* 🔐 Exploring **Authentication, REST APIs and application security**
+* 🐳 Learning modern development and deployment tools
+* 🎯 Goal: Build scalable software and solve real-world problems
 
-### 🚀 What I Do
+<br/>
 
-* 💻 Build modern web applications
-* 🎨 Create responsive user interfaces
-* ⚛️ Develop applications with React & Next.js
-* 🔷 Work with JavaScript & TypeScript
-* 🟢 Build backend systems with Node.js & Express.js
-* 🗄️ Work with MongoDB & PostgreSQL
-* 🔐 Explore authentication & API security
-* 🌐 Develop REST APIs
-* 🐳 Learn Docker & deployment
-* 🧠 Improve problem-solving skills
 
-<br clear="right"/>
 
-### 🎯 Current Goal
-
-> **Become a professional Full-Stack Software Engineer and build products that solve real-world problems.**
-
----
-
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -95,19 +79,15 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 
 <br/><br/>
 
-### 🛠️ Tools & DevOps
+### 🧰 Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker" />
-
-<br/><br/>
-
-### ☁️ Deployment
-
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman,docker,vercel,netlify" />
 
 </div>
 
----
+<br/>
+
+
 
 # 📚 Currently Learning
 
@@ -117,160 +97,51 @@ I enjoy turning ideas into real-world projects and continuously improving my dev
 
 <br/><br/>
 
-**TypeScript • React • Next.js • Node.js • REST APIs • PostgreSQL • Prisma • Docker**
-
-</div>
-
----
-
-# 📌 Pinned & Featured Projects
-
-<div align="center">
-
-### ⭐ Projects I'm proud of
+**TypeScript · React · Next.js · Node.js · REST APIs · PostgreSQL · Prisma · Docker**
 
 </div>
 
 <br/>
 
-<table>
-<tr>
-<td width="50%">
+---
+
+# 🚀 Featured Projects
 
 ### 🔎 GitHub Finder
 
-A GitHub profile search application that allows users to explore profiles, followers, following and public repositories using the GitHub REST API.
+A web application that allows users to search GitHub profiles and explore user information, followers, following, and public repositories using the GitHub REST API.
 
-**Tech**
-
-`HTML` `CSS` `JavaScript` `Fetch API` `GitHub API`
-
-<br/>
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Fetch API`
 
 <a href="https://github.com/shiumjoarder/GitHub-Finder-project">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://github-user-finder-shium.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 </a>
 
-</td>
-
-<td width="50%">
+<br/><br/>
 
 ### 🎤 DevConf 2026
 
-A modern developer conference website featuring speakers, schedules, event information, pricing and venue details.
+A modern and responsive developer conference website featuring speakers, schedules, event details, pricing, and venue information.
 
-**Tech**
-
-`HTML` `CSS` `Responsive Design`
-
-<br/>
+**Tech Stack:** `HTML` `CSS` `Responsive Design`
 
 <a href="https://github.com/shiumjoarder/b14-a01">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 <a href="https://devconf2026-beta.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🚀 More Projects Coming Soon...
-
-<div align="center">
-
-**Building something new. Stay tuned. 👀**
-
-</div>
+<br/><br/>
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=shiumjoarder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight"
-alt="GitHub Statistics"
-/>
-
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiumjoarder&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"
-alt="Top Languages"
-/>
-
-</div>
-
-<br/>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=shiumjoarder&theme=tokyonight&hide_border=true"
-alt="GitHub Streak"
-/>
-
-</div>
-
-<br/>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=shiumjoarder&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-width="100%"
-alt="Contribution Graph"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=shiumjoarder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-alt="GitHub Trophies"
-/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/shiumjoarder/shiumjoarder/output/github-contribution-grid-snake.svg"
-alt="Contribution Snake"
-/>
-
-</div>
-
----
-
-# 💡 Developer Philosophy
+# 💡 Development Philosophy
 
 <div align="center">
 
@@ -278,17 +149,15 @@ alt="Contribution Snake"
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Write+Clean+Code;Build+Real+World+Projects;Learn+From+Every+Mistake;Keep+Improving+Every+Day" />
-
-<br/><br/>
-
-`Clean Code` • `Problem Solving` • `Scalable Architecture`
+> Building consistently, learning from mistakes, and improving with every project.
 
 <br/>
 
-`Continuous Learning` • `Real-World Projects` • `Consistency`
+**Clean Code · Problem Solving · Continuous Learning · Real-World Projects**
 
 </div>
+
+<br/>
 
 ---
 
@@ -296,32 +165,40 @@ alt="Contribution Snake"
 
 <div align="center">
 
-### Have an idea or want to collaborate?
+<p>
+  I'm always open to collaboration, learning opportunities, and interesting projects.
+</p>
 
 <br/>
 
 <a href="https://github.com/shiumjoarder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/md-shium-joarder-/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shiumjoarder@gmail.com">
+  <img src="https://img.shields.io/badge/shiumjoarder%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-**I'm always open to learning, collaborating and building something interesting. 🚀**
+### Let's build something meaningful together 🚀
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-### 💻 Learn → Build → Improve → Repeat 🚀
+### 💻 Learn → Build → Improve → Repeat
 
-<br/>
+<p>Thanks for visiting my profile!</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer" />
 
 </div>
