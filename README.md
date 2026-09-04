@@ -9,7 +9,6 @@
 <div align="center">
 
 # 👋 Hi, I'm **MD Shium Joarder**
-
 ### 🚀 Full-Stack Web Developer
 
 </div>
@@ -67,9 +66,9 @@
 
 # 👨‍💻 About Me
 
-I'm **MD Shium Joarder**, a passionate **Full-Stack Web Developer** focused on creating modern, responsive and scalable web applications.
+I'm MD Shium Joarder, an ICE Student at Bangladesh Army University of Engineering & Technology (BAUET) and a passionate Full-Stack Web Developer focused on creating modern, responsive and scalable web applications.
 
-I enjoy turning ideas into real-world projects while continuously improving my **problem-solving, programming and software engineering skills**.
+I enjoy turning ideas into real-world projects while continuously improving my problem-solving, programming and software engineering skills..
 
 ### 🚀 What I Do
 
@@ -93,19 +92,15 @@ I enjoy turning ideas into real-world projects while continuously improving my *
 
 <!-- ========================= CURRENTLY LEARNING ========================= -->
 
+
+
 # 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,postgres,prisma,docker" />
-
-</p>
-
-<p align="center">
-
-**TypeScript • React • Next.js • Node.js • REST APIs • PostgreSQL • Prisma • Docker**
-
-</p>
+- 🚀 Exploring **Next.js** and modern React development
+- 🔷 Improving **TypeScript** skills
+- 🗄️ Learning **PostgreSQL & Prisma**
+- 🐳 Exploring **Docker** and deployment
+- 💻 Building **real-world full-stack projects**
 
 <br/>
 
@@ -249,17 +244,23 @@ I enjoy turning ideas into real-world projects while continuously improving my *
 
 <br/>
 
-<!-- ========================= FOOTER ========================= -->
+<!-- ========================= ANIMATED FOOTER ========================= -->
 
 <div align="center">
 
-### 💻 Learn → Build → Improve → Repeat 🚀
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=💻+Learn+→+Build+→+Improve+→+Repeat+🚀"
+  alt="Learn Build Improve Repeat"
+/>
 
-<br/>
+<br/><br/>
 
-**Thanks for visiting my profile!**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+👋"
+  alt="Thanks for visiting"
+/>
 
-<br/>
+<br/><br/>
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=100&section=footer"
